@@ -12,5 +12,7 @@ Das Spiel wird durch die Tasten WASD und F gespielt
 
 WASD sind für die Steuerung des Spielers und F um zu schiessen.
 
-Das Ziel des Spiels ist es das Ende so schnell wie möglich und ohne zu sterben, zu erreichen.
+Das Ziel des Spiels ist es das Ende so schnell wie möglich und ohne zu sterben, zu erreichen.$
+
+In dem _"_Proj"_ File kann man die Scripts des Spiels einsehen.
 
