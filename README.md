@@ -26,5 +26,8 @@ Das Spiel befindet sich in einem noch nicht fertigen Zustand.
 - Vollständiges UI
   - Optionen Menu
 - Neue Levels
+- Verschidene Schwierigkeitsstufen
 
+**Vorschläge sind Wilkommen**
+andrin.schellenberg@student.ipso.com
 
