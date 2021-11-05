@@ -1,7 +1,7 @@
 # Glagala
 
 
-### INFO
+## INFO
 
 Glagala ist ein in zwei Wochen entstandenes Projekt.
 Im Projekt ging es darum meine c# und unity Kentnisse zu verbessern.
