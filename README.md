@@ -1,5 +1,8 @@
 # Glagala
 
+
+*INFO*
+
 Glagala ist ein in zwei Wochen entstandenes Projekt
 Im Projekt ging es darum meine c# und unity Kentnisse zu verbessern.
 
@@ -14,5 +17,5 @@ WASD sind für die Steuerung des Spielers und F um zu schiessen.
 
 Das Ziel des Spiels ist es das Ende so schnell wie möglich und ohne zu sterben, zu erreichen.$
 
-In dem _"_Proj"_ File kann man die Scripts des Spiels einsehen.
+In dem __Proj_ File kann man die Scripts des Spiels einsehen.
 
