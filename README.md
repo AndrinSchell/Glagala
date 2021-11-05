@@ -29,5 +29,6 @@ Das Spiel befindet sich in einem noch nicht fertigen Zustand.
 - Verschidene Schwierigkeitsstufen
 
 **Vorschläge sind Wilkommen**
+
 andrin.schellenberg@student.ipso.com
 
