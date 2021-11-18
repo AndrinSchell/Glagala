@@ -22,6 +22,7 @@ Das Ziel des Spiels ist es das Ende so schnell wie möglich und ohne zu sterben,
 ### Änderungen
 
 Das Spiel befindet sich in einem noch nicht fertigen Zustand.
+
 **Als nächstes geplant sind:**
 - Vollständiges UI
   - Optionen Menu
