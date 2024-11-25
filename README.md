@@ -19,17 +19,14 @@ WASD sind für die Steuerung des Spielers und F um zu schiessen.
 
 Das Ziel des Spiels ist es das Ende so schnell wie möglich und ohne zu sterben, zu erreichen.
 
-### Änderungen
+### Weitere Schritte
 
-Das Spiel befindet sich in einem noch nicht fertigen Zustand.
+>Das Spiel diente als Übung und wird in seinem jetzigen Zustand bleiben.
+>Momentan arbeite ich jedoch an einer neuen Version in einer neuen Engine. 
+>Mehr dazu [Finden Sie Hier](https://github.com/AndrinSchell/GlagalaNewDimension) 
 
-**Als nächstes geplant sind:**
-- Vollständiges UI
-  - Optionen Menu
-- Neue Levels
-- Verschidene Schwierigkeitsstufen
 
 **Vorschläge sind Wilkommen**
 
-andrin.schellenberg@student.ipso.com
+[andrin.schellenberg@hotmail.com](mailto:andrin.schellenberg@hotmail.com)
 
